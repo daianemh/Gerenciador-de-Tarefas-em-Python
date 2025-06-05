@@ -43,5 +43,6 @@ Escolha uma opção: 1
 
 Escolha uma opção: 5
 Saindo...
-Autor
+
+Autora
 Daiane Moreira Horbach
